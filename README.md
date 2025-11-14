@@ -5,9 +5,8 @@
 
 A comprehensive machine learning web application that predicts heart disease risk with **86.9% accuracy** using clinical parameters. Built with Streamlit and powered by Random Forest algorithm.
 
-## 🎯 Live Demo
-
-🚀 **Try the live application:** [Coming Soon](#)
+## 🚀 Live Demo
+🔗 **[Try the App Here](https://heart-disease-prediction-crxpswatrlj5ecuvkworqm.streamlit.app/)**
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heart-disease-predictor.streamlit.app/)
 
@@ -202,12 +201,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🆘 Support
 
-- **Documentation**: [Project Wiki](#)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/heart-disease-predictor/issues)
-- **Email**: support@example.com
-- **Discord**: [Join our community](#)
 
 ## 🙏 Acknowledgments
 
@@ -218,10 +212,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Developer**: Your Name  
-**Email**: your.email@example.com  
-**GitHub**: [@yourusername](https://github.com/yourusername)  
-**LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)  
+**Developer**: Sajal Samanta  
+**Email**: sajalsamanta964@gmail.com  
+**GitHub**: [@yourusername](https://github.com/sajal-samanta)  
+
 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
 
 ---
